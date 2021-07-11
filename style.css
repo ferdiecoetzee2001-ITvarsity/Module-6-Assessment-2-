@@ -299,7 +299,7 @@ h4{
 }
 .middle{
   position: absolute;
-  top: 130%;
+  top: 115%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
